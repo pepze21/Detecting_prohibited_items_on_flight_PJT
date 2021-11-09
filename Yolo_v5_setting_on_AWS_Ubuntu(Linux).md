@@ -136,20 +136,18 @@ mkdir labels
   ​				└ train
 
   ​						└ weight
-
-
-
-​	dataset
-
-​			└ data.yaml
-
-​			└ images
-
-​					└ .jpg
-
-​			└ labels
-
-​					└ .txt
+  
+  dataset
+  
+  ​		└ data.yaml
+  
+  ​		└ images
+  
+  ​				└ .jpg
+  
+  ​		└ labels
+  
+  ​				└ .txt
 
 
 
